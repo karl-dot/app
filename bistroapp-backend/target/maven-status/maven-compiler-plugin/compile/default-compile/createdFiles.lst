@@ -1,0 +1,8 @@
+pl\karl\bistroapp\service\ClientOrderService.class
+pl\karl\bistroapp\controller\ClientOrderController.class
+pl\karl\bistroapp\config\ServletInitializer.class
+pl\karl\bistroapp\dao\ClientOrderDAOImpl.class
+pl\karl\bistroapp\service\ClientOrderServiceImpl.class
+pl\karl\bistroapp\dao\ClientOrderDAO.class
+pl\karl\bistroapp\config\Config.class
+pl\karl\bistroapp\model\ClientOrder.class
